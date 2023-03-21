@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Content = styled.nav`
   position: fixed;
@@ -7,7 +7,11 @@ export const Content = styled.nav`
   display: flex;
   width: 100%;
   height: 60px;
-  background: rgba(0,0,0,0.7);
+  background: rgba(0, 0, 0, 0.7);
+
+  @media screen and (max-width: 700px) {
+    height: 50px;
+  }
 
   ul {
     display: flex;
@@ -19,6 +23,10 @@ export const Content = styled.nav`
   ul li {
     margin: 0 1rem;
     padding: 0;
+
+    @media screen and (max-width: 700px) {
+      margin: 0 0.5rem;
+    }
   }
 
   ul li a {
@@ -29,9 +37,14 @@ export const Content = styled.nav`
     display: inline-block;
     padding: 5px 20px;
     position: relative;
+
+    @media screen and (max-width: 700px) {
+      font-size: 10px;
+      padding: 0px 0px;
+    }
   }
 
-  ul li a:after {    
+  ul li a:after {
     background: none repeat scroll 0 0 transparent;
     bottom: 0;
     content: "";
@@ -44,12 +57,12 @@ export const Content = styled.nav`
     width: 0;
   }
 
-  ul li a:hover:after { 
-    width: 100%; 
-    left: 0; 
+  ul li a:hover:after {
+    width: 100%;
+    left: 0;
   }
 
   .active {
-      font-weight: 600;
+    font-weight: 600;
   }
 `;

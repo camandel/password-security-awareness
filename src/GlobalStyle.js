@@ -11,6 +11,7 @@ export const GlobalStyle = createGlobalStyle`
         --fontBig: 1.5rem;
         --fontMed: 1.3rem;
         --fontSmall: 1rem;
+        --fontMini: 0.8rem;
     }
 
     * {
@@ -27,6 +28,9 @@ export const GlobalStyle = createGlobalStyle`
             font-weight: 600;
             color: var(--white);
             margin: 40px 0px 30px 0;
+            @media screen and (max-width: 700px) {
+                font-size: var(--fontMini);
+            }
         }
 
         h3 {
@@ -37,6 +41,9 @@ export const GlobalStyle = createGlobalStyle`
         p {
             font-size: var(--fontSmall);
             color: var(--white);
+            @media screen and (max-width: 700px) {
+                font-size: var(--fontMini);
+            }
         }
     }
 `;

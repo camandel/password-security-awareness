@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Image = styled.img`
   width: 100%;
@@ -9,6 +9,10 @@ export const Image = styled.img`
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   animation: animateMovieThumb 0.5s;
+
+  @media screen and (max-width: 700px) {
+    max-width: 350px;
+  }
 
   :hover {
     opacity: 0.8;
