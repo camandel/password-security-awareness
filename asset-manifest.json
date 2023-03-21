@@ -1,29 +1,22 @@
 {
   "files": {
-    "main.js": "/password-security-awareness/static/js/main.b29ba9c4.chunk.js",
-    "main.js.map": "/password-security-awareness/static/js/main.b29ba9c4.chunk.js.map",
-    "runtime-main.js": "/password-security-awareness/static/js/runtime-main.cf334258.js",
-    "runtime-main.js.map": "/password-security-awareness/static/js/runtime-main.cf334258.js.map",
-    "static/js/2.bbb48d07.chunk.js": "/password-security-awareness/static/js/2.bbb48d07.chunk.js",
-    "static/js/2.bbb48d07.chunk.js.map": "/password-security-awareness/static/js/2.bbb48d07.chunk.js.map",
+    "main.js": "/password-security-awareness/static/js/main.2dbc8a62.js",
+    "static/media/marc-hint0.jpg": "/password-security-awareness/static/media/marc-hint0.b4de88039e5e89134445.jpg",
+    "static/media/jack-hint2.jpg": "/password-security-awareness/static/media/jack-hint2.c5f3cb044bced89cefdb.jpg",
+    "static/media/lucy-hint2.jpg": "/password-security-awareness/static/media/lucy-hint2.20de0e378a949bb28103.jpg",
+    "static/media/jack-hint1.jpg": "/password-security-awareness/static/media/jack-hint1.e0bbabcf5eca3459da8a.jpg",
+    "static/media/lucy-hint0.jpg": "/password-security-awareness/static/media/lucy-hint0.c5d897accaaeb9bce430.jpg",
+    "static/media/jack-hint0.jpg": "/password-security-awareness/static/media/jack-hint0.db6111fc448f5b026e67.jpg",
+    "static/media/marc-hint1.jpg": "/password-security-awareness/static/media/marc-hint1.817dbf611d1637e1e9b7.jpg",
+    "static/media/adam-hint1.jpg": "/password-security-awareness/static/media/adam-hint1.570e20f04ca4e93471c4.jpg",
+    "static/media/marc-hint2.jpg": "/password-security-awareness/static/media/marc-hint2.cd506d5d664e851d277f.jpg",
+    "static/media/lucy-hint1.jpg": "/password-security-awareness/static/media/lucy-hint1.e735e75aecc3c62be19a.jpg",
+    "static/media/adam-hint2.jpg": "/password-security-awareness/static/media/adam-hint2.58764a4426a0df11511b.jpg",
+    "static/media/adam-hint0.jpg": "/password-security-awareness/static/media/adam-hint0.fc06b77a7938b489498d.jpg",
     "index.html": "/password-security-awareness/index.html",
-    "static/js/2.bbb48d07.chunk.js.LICENSE.txt": "/password-security-awareness/static/js/2.bbb48d07.chunk.js.LICENSE.txt",
-    "static/media/adam-hint0.fc06b77a.jpg": "/password-security-awareness/static/media/adam-hint0.fc06b77a.jpg",
-    "static/media/adam-hint1.570e20f0.jpg": "/password-security-awareness/static/media/adam-hint1.570e20f0.jpg",
-    "static/media/adam-hint2.58764a44.jpg": "/password-security-awareness/static/media/adam-hint2.58764a44.jpg",
-    "static/media/jack-hint0.db6111fc.jpg": "/password-security-awareness/static/media/jack-hint0.db6111fc.jpg",
-    "static/media/jack-hint1.e0bbabcf.jpg": "/password-security-awareness/static/media/jack-hint1.e0bbabcf.jpg",
-    "static/media/jack-hint2.c5f3cb04.jpg": "/password-security-awareness/static/media/jack-hint2.c5f3cb04.jpg",
-    "static/media/lucy-hint0.c5d897ac.jpg": "/password-security-awareness/static/media/lucy-hint0.c5d897ac.jpg",
-    "static/media/lucy-hint1.e735e75a.jpg": "/password-security-awareness/static/media/lucy-hint1.e735e75a.jpg",
-    "static/media/lucy-hint2.20de0e37.jpg": "/password-security-awareness/static/media/lucy-hint2.20de0e37.jpg",
-    "static/media/marc-hint0.b4de8803.jpg": "/password-security-awareness/static/media/marc-hint0.b4de8803.jpg",
-    "static/media/marc-hint1.817dbf61.jpg": "/password-security-awareness/static/media/marc-hint1.817dbf61.jpg",
-    "static/media/marc-hint2.cd506d5d.jpg": "/password-security-awareness/static/media/marc-hint2.cd506d5d.jpg"
+    "main.2dbc8a62.js.map": "/password-security-awareness/static/js/main.2dbc8a62.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf334258.js",
-    "static/js/2.bbb48d07.chunk.js",
-    "static/js/main.b29ba9c4.chunk.js"
+    "static/js/main.2dbc8a62.js"
   ]
 }
