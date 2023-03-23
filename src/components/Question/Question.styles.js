@@ -44,6 +44,7 @@ export const Content = styled.div`
       padding: 0 5px;
     }
   }
+
   p {
     font-size: var(--fontSmall);
     color: var(--white);
