@@ -28,10 +28,7 @@ export const GlobalStyle = createGlobalStyle`
             font-weight: 600;
             color: var(--white);
             margin: 40px 0px 30px 0;
-            @media screen and (max-width: 700px) {
-                font-size: var(--fontMini);
-            }
-        }
+          }
 
         h3 {
             font-size: 1.1rem;
@@ -41,9 +38,6 @@ export const GlobalStyle = createGlobalStyle`
         p {
             font-size: var(--fontSmall);
             color: var(--white);
-            @media screen and (max-width: 700px) {
-                font-size: var(--fontMini);
-            }
         }
     }
 `;

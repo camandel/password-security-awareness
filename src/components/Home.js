@@ -1,6 +1,6 @@
 import React from "react";
 // Components
-import Menu from './Menu';
+import Menu from "./Menu";
 import Intro from "./Intro";
 import Database from "./Database";
 import Grid from "./Grid";
@@ -12,19 +12,19 @@ import Images from "./Images";
 import { USERS } from "../config";
 
 const Home = () => {
-    return (
-        <>
-            <Menu />
-            <Intro />
-            <Database users={USERS} />
-            <Grid header="Data collected from Social Media">
-                {Images.map((item) => (
-                    <Thumb image={item} key={item} />
-                ))}
-            </Grid>
-            <Quiz />
-        </>
-    )
-}
+  return (
+    <>
+      <Menu />
+      <Intro />
+      <Database users={USERS} />
+      <Grid header="Data collected from Social Media">
+        {Images.map((item) => (
+          <Thumb image={item} key={item} />
+        ))}
+      </Grid>
+      <Quiz />
+    </>
+  );
+};
 
 export default Home;

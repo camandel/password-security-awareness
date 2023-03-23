@@ -11,7 +11,7 @@ export const Image = styled.img`
   animation: animateMovieThumb 0.5s;
 
   @media screen and (max-width: 700px) {
-    max-width: 350px;
+    max-width: 380px;
   }
 
   :hover {

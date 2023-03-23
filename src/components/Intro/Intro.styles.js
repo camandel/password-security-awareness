@@ -9,12 +9,6 @@ export const Wrapper = styled.div`
     color: var(--medGrey);
   }
 
-  h1 {
-    @media screen and (max-width: 700px) {
-      font-size: var(--fontSmall);
-    }
-  }
-
   p {
     color: var(--medGrey);
   }

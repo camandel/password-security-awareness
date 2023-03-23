@@ -40,7 +40,9 @@ const Question = ({ user }) => {
   return (
     <Wrapper>
       <Content>
-        <div>What is {user.username}'s password?</div>
+        <div>
+          What is <b>{user.username}</b>'s password?
+        </div>
         <input
           type="text"
           placeholder="Submit your answer here..."

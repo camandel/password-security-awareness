@@ -44,4 +44,11 @@ export const Content = styled.div`
       padding: 0 5px;
     }
   }
+  p {
+    font-size: var(--fontSmall);
+    color: var(--white);
+    @media screen and (max-width: 700px) {
+      font-size: var(--fontMini);
+    }
+  }
 `;

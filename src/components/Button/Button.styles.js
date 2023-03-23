@@ -15,7 +15,7 @@ export const Wrapper = styled.button`
 
   @media screen and (max-width: 700px) {
     font-size: var(--fontMini);
-    width: 50px;
+    width: 60px;
     min-width: 50px;
     border-radius: 10px;
     margin: 5px 0px;

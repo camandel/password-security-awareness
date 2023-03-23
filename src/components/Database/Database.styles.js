@@ -8,12 +8,6 @@ export const Wrapper = styled.div`
   h1 {
     color: var(--medGrey);
   }
-
-  h1 {
-    @media screen and (max-width: 700px) {
-      font-size: var(--fontSmall);
-    }
-  }
 `;
 
 export const Table = styled.table`
@@ -26,7 +20,8 @@ export const Table = styled.table`
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 
   @media screen and (max-width: 700px) {
-    font-size: var(--fontMini);
+    font-size: var(--fontSmall);
+    border-radius: 8px;
   }
 
   thead tr {
@@ -44,7 +39,7 @@ export const Table = styled.table`
     @media screen and (max-width: 700px) {
       padding: 3px 3px;
 
-      max-width: 100px;
+      max-width: 120px;
       width: 50px;
       white-space: nowrap;
       overflow: hidden;

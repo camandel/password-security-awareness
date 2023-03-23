@@ -18,11 +18,11 @@ export const Content = styled.nav`
     list-style: none;
     width: 100%;
     justify-content: center;
+    padding: 0;
   }
 
   ul li {
     margin: 0 1rem;
-    padding: 0;
 
     @media screen and (max-width: 700px) {
       margin: 0 0.5rem;
@@ -39,7 +39,7 @@ export const Content = styled.nav`
     position: relative;
 
     @media screen and (max-width: 700px) {
-      font-size: 10px;
+      font-size: 16px;
       padding: 0px 0px;
     }
   }
