@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/password-security-awareness/static/js/main.236eff9a.js",
+    "main.js": "/password-security-awareness/static/js/main.abddd05b.js",
     "static/media/marc-hint0.jpg": "/password-security-awareness/static/media/marc-hint0.b4de88039e5e89134445.jpg",
     "static/media/jack-hint2.jpg": "/password-security-awareness/static/media/jack-hint2.c5f3cb044bced89cefdb.jpg",
     "static/media/lucy-hint2.jpg": "/password-security-awareness/static/media/lucy-hint2.20de0e378a949bb28103.jpg",
@@ -14,9 +14,9 @@
     "static/media/adam-hint2.jpg": "/password-security-awareness/static/media/adam-hint2.58764a4426a0df11511b.jpg",
     "static/media/adam-hint0.jpg": "/password-security-awareness/static/media/adam-hint0.fc06b77a7938b489498d.jpg",
     "index.html": "/password-security-awareness/index.html",
-    "main.236eff9a.js.map": "/password-security-awareness/static/js/main.236eff9a.js.map"
+    "main.abddd05b.js.map": "/password-security-awareness/static/js/main.abddd05b.js.map"
   },
   "entrypoints": [
-    "static/js/main.236eff9a.js"
+    "static/js/main.abddd05b.js"
   ]
 }
